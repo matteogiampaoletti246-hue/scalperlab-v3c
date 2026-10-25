@@ -1,0 +1,6 @@
+{
+  "name": "ScalperLab",
+  "description": "ScalperLab - Piattaforma avanzata di statistiche e analisi quantitativa per il calcio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
